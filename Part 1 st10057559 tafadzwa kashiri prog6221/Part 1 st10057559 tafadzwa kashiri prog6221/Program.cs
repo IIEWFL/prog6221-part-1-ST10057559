@@ -75,7 +75,7 @@ namespace Recipe
                     Console.WriteLine("Enter step {0} :", i + 1);
                     string step = Console.ReadLine();
                     steps.Add(step);
-                    //prompt the user to enter the description of each step
+                    
                     
 
                 }
