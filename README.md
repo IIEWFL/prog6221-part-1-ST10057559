@@ -2,9 +2,9 @@
 HOW TO USE THE CODE
 #To access my code go to Tag 1 in my repository
 # First you will be prompted to Enter a choice (1-6)
-# If choice = 1  the enter the number of ingredients
+# If choice = 1  the enter the number of ingredients(interger values)
 # Under Ingredients details Enter the Ingredient name, quantity and unit of measurement for each Ingredient
-# Enter the number of steps 
+# Enter the number of steps (integer values)
 # Enter the description of each step
 # Enter your Choice again
 # If choice = 2 then the recipe will be displayed 
@@ -14,6 +14,7 @@ HOW TO USE THE CODE
 # Enter 5 to clear the recipe
 # Enter 6 to exit the program.
 # Press any key to exit
+
 
 # link to git Hub repository https://github.com/IIEWFL/prog6221-part-1-ST10057559.
  References
