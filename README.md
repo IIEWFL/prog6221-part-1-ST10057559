@@ -1,9 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Oa99dRjC)
 HOW TO USE THE CODE
 #To access my code go to Tag 1 in my repository
-# First you will be prompted to Enter a choice (1-6)
+# First you will be prompted to Enter a choice (1-6) (int value)
 # If choice = 1  the enter the number of ingredients(interger values)
-# Under Ingredients details Enter the Ingredient name, quantity and unit of measurement for each Ingredient
+# Under Ingredients details Enter the Ingredient name(string), quantity(int) and unit of measurement(string) for each Ingredient
 # Enter the number of steps (integer values)
 # Enter the description of each step
 # Enter your Choice again
