@@ -45,6 +45,7 @@ namespace Recipe
                 scale = 1.0;
 
             }
+            // Methods
             public void EnterDetails()
             {
                 //Adapted from Dani Krosing
