@@ -181,7 +181,7 @@ namespace Recipe
 
 
                         }
-                        Console.WriteLine();
+                        
                     }
                 }
             }
