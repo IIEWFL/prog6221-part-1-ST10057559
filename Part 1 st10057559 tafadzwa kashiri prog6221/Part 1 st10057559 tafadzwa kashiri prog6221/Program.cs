@@ -157,6 +157,7 @@ namespace Recipe
                         String input = Console.ReadLine() ;
                         switch (input)
                         {
+                                //calling the methods
                             case "1":
                                 recipe.EnterDetails();
                                 break;
