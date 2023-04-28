@@ -85,7 +85,7 @@ namespace Recipe
             public void DisplayRecipe()
             {
                 //display the ingredients and quantities
-                Console.WriteLine("Ingredients:");
+                Console.WriteLine("Recipe displayed below:");
                 foreach (Ingredient ingredient in ingredients)
                 {
                     Console.WriteLine("{0} {1} of {2}", ingredient.Quantity * scale, ingredient.Unit, ingredient.Name);
