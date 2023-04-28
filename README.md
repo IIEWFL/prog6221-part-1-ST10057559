@@ -2,7 +2,7 @@
 HOW TO USE THE CODE
 #To access my code go to Tag 1 in my repository
 # First you will be prompted to Enter a choice (1-6) (int value)
-# If choice = 1  the enter the number of ingredients(interger values)
+# If choice = 1  then enter the number of ingredients(interger values)
 # Under Ingredients details Enter the Ingredient name(string), quantity(int) and unit of measurement(string) for each Ingredient
 # Enter the number of steps (integer values)
 # Enter the description of each step
