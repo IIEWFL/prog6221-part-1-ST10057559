@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Oa99dRjC)
 HOW TO USE THE CODE
+#To access my code go to Tag 1 in my repository
 # First you will be prompted to Enter a choice (1-6)
 # If choice = 1  the enter the number of ingredients
 # Under Ingredients details Enter the Ingredient name, quantity and unit of measurement for each Ingredient
@@ -13,6 +14,7 @@ HOW TO USE THE CODE
 # Enter 5 to clear the recipe
 # Enter 6 to exit the program.
 # Press any key to exit
+
 # link to git Hub repository https://github.com/IIEWFL/prog6221-part-1-ST10057559.
  References
 Adapted from Dani Krosing
