@@ -10,3 +10,4 @@ Enter 3 to scale recipe .. You will be asked to enter a scaling factor(0.5, 2 or
 Enter 2 or 3 then Enter your choice again
 if choice = 4 then reset quantiies
 The user shall be able to clear and exit the program
+link to git Hub repository https://github.com/IIEWFL/prog6221-part-1-ST10057559
