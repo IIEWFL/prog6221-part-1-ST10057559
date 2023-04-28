@@ -30,6 +30,7 @@ namespace Recipe
 
 
         }
+        //class recipe with ArrayLists
         class Recipe
         {
             //Storing ingredients and steps
