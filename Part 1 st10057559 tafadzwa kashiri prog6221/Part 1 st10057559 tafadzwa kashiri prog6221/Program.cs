@@ -176,8 +176,8 @@ namespace Recipe
                                 break;
                             case "6":
                                 return;
-                            break;
-                            default:
+                            
+                           default:
                                 Console.WriteLine("Invalid command!"); break;
 
 
