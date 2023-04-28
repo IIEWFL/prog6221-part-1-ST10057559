@@ -32,7 +32,7 @@ namespace Recipe
         }
         class Recipe
         {
-            //storing ingredients and steps
+            //Storing ingredients and steps
             private List<Ingredient> ingredients;
             private List<string> steps;
             private double scale;
@@ -170,7 +170,7 @@ namespace Recipe
                             recipe.ClearRecipe();
                                 break;
                             case "6":
-                                running =false;
+                                return;
                             break;
                             default:
                                 Console.WriteLine("Invalid command!"); break;
