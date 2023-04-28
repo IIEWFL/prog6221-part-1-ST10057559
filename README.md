@@ -12,7 +12,7 @@ HOW TO USE THE CODE
 # if choice = 4 then reset quantiies and the quantities will be successfully reset
 # Enter 5 to clear the recipe
 # Enter 6 to exit the program.
-#Press any key to exit
+# Press any key to exit
 # link to git Hub repository https://github.com/IIEWFL/prog6221-part-1-ST10057559.
 References
 Adapted from Dani Krosing
