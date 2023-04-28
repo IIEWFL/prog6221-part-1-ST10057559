@@ -61,8 +61,8 @@ namespace Recipe
                     Console.Write("Please enter the quantity {0} :", i + 1);
                     double quantity = int.Parse(Console.ReadLine());
                     Console.Write("Please enter the unit of measurement {0} :", i + 1);
-                    String Measurement = Console.ReadLine();
-                    ingredients.Add(new Ingredient(name, quantity, Measurement));
+                    String Unit = Console.ReadLine();
+                    ingredients.Add(new Ingredient(name, quantity, Unit));
                 }
                 //prompt the user to enter the steps
                 Console.WriteLine("Enter the number of steps: ");
@@ -172,7 +172,7 @@ namespace Recipe
                                 break;
                             case "6":
                                 return;
-                            
+                            break;
                             default:
                                 Console.WriteLine("Invalid command!"); break;
 
