@@ -14,7 +14,7 @@ HOW TO USE THE CODE
 # Enter 6 to exit the program.
 # Press any key to exit
 # link to git Hub repository https://github.com/IIEWFL/prog6221-part-1-ST10057559.
-References
+ References
 Adapted from Dani Krosing
 https://youtu.be/fZioOGu6DlI
 
